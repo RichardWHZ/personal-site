@@ -1,7 +1,7 @@
 ---
 title: "Resume-Richard Wang"
 date: 2020-07-26T18:15:43+08:00
-chapter: true
+chapter: false
 draft: false
 disableToc : false
 menuTitle : "Resume"

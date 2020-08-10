@@ -1,7 +1,7 @@
 ---
 title :  "About Me"
 date : 2020-08-09T16:56:56+08:00
-draft :  true
+draft :  false
 weight : 1
 
 # Table of content (toc) is enabled by default. Set this parameter to true to disable it.

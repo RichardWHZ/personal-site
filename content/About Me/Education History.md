@@ -1,7 +1,7 @@
 ---
 title :  "Education History"
 date : 2020-08-09T17:15:28+08:00
-draft :  true
+draft :  false
 weight : 4
 
 # Table of content (toc) is enabled by default. Set this parameter to true to disable it.
