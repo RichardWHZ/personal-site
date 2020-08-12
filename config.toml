@@ -1,4 +1,4 @@
-baseURL = "richardwhz.netlify.app"
+baseURL = "http://richardwhz.netlify.app/"
 languageCode = "en-us"
 title = "Richard Wang`s Personal Site"
 theme = "hugo-learn"
