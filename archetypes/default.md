@@ -1,7 +1,7 @@
 ---
 title :  "{{ replace .Name "-" " " | title }}"
 date : {{ .Date }}
-draft :  true
+draft :  false
 weight : 0
 
 # Table of content (toc) is enabled by default. Set this parameter to true to disable it.
@@ -23,3 +23,4 @@ LastModifierDisplayName : ""
 LastModifierEmail : ""
 ---
 
+![Under Construction](/images/under-construction.png)

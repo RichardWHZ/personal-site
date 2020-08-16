@@ -1,7 +1,7 @@
 ---
 title :  "Books"
 date : 2020-08-09T16:48:52+08:00
-draft :  true
+draft :  false
 weight : 0
 
 # Table of content (toc) is enabled by default. Set this parameter to true to disable it.
@@ -23,3 +23,4 @@ LastModifierDisplayName : ""
 LastModifierEmail : ""
 ---
 
+![Under Construction](/images/under-construction.png)
