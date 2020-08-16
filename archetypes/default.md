@@ -6,7 +6,7 @@ weight : 0
 
 # Table of content (toc) is enabled by default. Set this parameter to true to disable it.
 # Note: Toc is always disabled for chapter pages
-disableToc : "false"
+disableToc : ""
 # If set, this will be used for the page's menu entry (instead of the `title` attribute)
 menuTitle : ""
 # The title of the page in menu will be prefixed by this HTML content
