@@ -1,6 +1,6 @@
 baseURL = "http://richardwhz.netlify.app/"
 languageCode = "en-us"
-title = "Richard Wang`s Personal Site"
+title = "RichardWHZ`s Personal Site"
 theme = "hugo-learn"
 
 # Search Function
@@ -38,4 +38,4 @@ home = [ "HTML", "RSS", "JSON"]
   # Change default color scheme with a variant one. Can be "red", "blue", "green".
   themeVariant = "red"
   # Provide a list of custom css files to load relative from the `static/` folder in the site root.
-  custom_css = ["css/foo.css", "css/bar.css"]
+  custom_css = []

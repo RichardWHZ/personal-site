@@ -23,7 +23,7 @@ LastModifierDisplayName : ""
 LastModifierEmail : ""
 ---
 
-## Technical Skills:
+## Technical Skills
 
 - Linux Administration
 - Windows Administration
