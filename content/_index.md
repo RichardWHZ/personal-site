@@ -25,6 +25,6 @@ LastModifierEmail : ""
 
 ## RichardWHZ`s Personal Site
 
-![illustration](/images/main-page-illustration.png)
+![illustration](/images/main-page-illustration.jpg)
 
 Welcome to my personal website.
