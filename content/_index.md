@@ -1,5 +1,5 @@
 ---
-title :  ""
+title :  "RichardWHZ`s Personal Site"
 date : 2020-08-11T00:59:07+08:00
 draft :  false
 weight : 0
@@ -23,3 +23,4 @@ LastModifierDisplayName : ""
 LastModifierEmail : ""
 ---
 
+This ia a test

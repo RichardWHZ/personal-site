@@ -24,7 +24,7 @@ LastModifierEmail : ""
 ---
 ### System Analyst/Programmer - Finsurge Pte. Ltd
 
-10/2019 - 03/2020
+Oct 2019 - Mar 2020
 
 - Worked with clients from a major financial institution
 - Consulted with client on the scope and deployment of project
@@ -35,7 +35,7 @@ LastModifierEmail : ""
 
 ### Temporary Contractor - Institute of Infocomm Research, A*STAR
 
-05/2019 - 08/2019
+May 2019 - Aug 2019
 
 - Conceptualised, built and maintained networked data storage cluster for data analysis
 - Created data storage cluster using FTP and Windows IIS
@@ -44,7 +44,7 @@ LastModifierEmail : ""
 
 ### Intern - OCBC Bank
 
-08/2018 - 02/2019
+Aug 2018 - Feb 2019
 
 - Consulted with clients the scope and requirements of Qlikview dashboard project
 - Designed, maintained and deployed Qlikview dashboard for Group Finance
