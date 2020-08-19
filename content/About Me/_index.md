@@ -23,7 +23,7 @@ LastModifierDisplayName : ""
 LastModifierEmail : ""
 ---
 
-![Profile Picture](/images/profile-pic.jpeg)
+![Profile Picture](/images/about-me/profile-pic.jpg)
 
 ## Summary
 

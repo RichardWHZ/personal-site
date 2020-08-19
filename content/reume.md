@@ -1,11 +1,26 @@
 ---
-title: "Resume-Richard Wang"
-date: 2020-07-26T18:15:43+08:00
-chapter: false
-draft: false
-disableToc : false
-menuTitle : "Resume"
-weight: 0
+title :  "Reume"
+date : 2020-08-19T09:51:53+08:00
+draft :  false
+weight : 0
+
+# Table of content (toc) is enabled by default. Set this parameter to true to disable it.
+# Note: Toc is always disabled for chapter pages
+disableToc : ""
+# If set, this will be used for the page's menu entry (instead of the `title` attribute)
+menuTitle : ""
+# The title of the page in menu will be prefixed by this HTML content
+pre : ""
+# The title of the page in menu will be postfixed by this HTML content
+post : ""
+# Set the page as a chapter, changing the way it's displayed
+chapter : false
+# Hide a menu entry by setting this to true
+hidden : true
+# Display name of this page modifier. If set, it will be displayed in the footer.
+LastModifierDisplayName : ""
+# Email of this page modifier. If set with LastModifierDisplayName, it will be displayed in the footer
+LastModifierEmail : ""
 ---
 
 ![Profile Picture](/images/profile-pic.jpeg)

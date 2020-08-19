@@ -1,5 +1,5 @@
 ---
-title :  "RichardWHZ`s Personal Site"
+title :  "Homepage"
 date : 2020-08-11T00:59:07+08:00
 draft :  false
 weight : 0
@@ -25,6 +25,4 @@ LastModifierEmail : ""
 
 ## RichardWHZ`s Personal Site
 
-![illustration](/images/main-page-illustration.jpg)
-
-Welcome to my personal website.
+![Illustration](/images/illustration.jpg)

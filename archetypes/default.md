@@ -15,8 +15,8 @@ pre : ""
 post : ""
 # Set the page as a chapter, changing the way it's displayed
 chapter : false
-# Hide a menu entry by setting this to true
-hidden : false
+# Hide a menu entry by setting this to true 
+hidden : true
 # Display name of this page modifier. If set, it will be displayed in the footer.
 LastModifierDisplayName : ""
 # Email of this page modifier. If set with LastModifierDisplayName, it will be displayed in the footer

@@ -23,6 +23,8 @@ LastModifierDisplayName : ""
 LastModifierEmail : ""
 ---
 
+![illustration](/images/about-me/education-history/illustration.jpg)
+
 ### Diploma In Big Data Management and Governence - Temasek Polytechnic  
 
 2016-2019

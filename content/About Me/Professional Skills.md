@@ -25,6 +25,8 @@ LastModifierEmail : ""
 
 ## Technical Skills
 
+![Profile Picture](/images/about-me/professional-skills/technical-skills.jpg)
+
 - Linux Administration
 - Windows Administration
 - Windows Server 2012 Administration
@@ -34,6 +36,8 @@ LastModifierEmail : ""
 - Python for Financial Analysis
 
 ## Soft Skills
+
+![Profile Picture](/images/about-me/professional-skills/soft-skills.jpg)
 
 - Public Speaking
 - Workplace Communication

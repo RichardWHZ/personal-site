@@ -22,6 +22,11 @@ LastModifierDisplayName : ""
 # Email of this page modifier. If set with LastModifierDisplayName, it will be displayed in the footer
 LastModifierEmail : ""
 ---
+
+
+![illustration](/images/about-me/enployment-history/illustration.jpg)
+
+
 ### System Analyst/Programmer - Finsurge Pte. Ltd
 
 Oct 2019 - Mar 2020
