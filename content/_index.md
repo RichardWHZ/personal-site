@@ -14,7 +14,7 @@ pre : ""
 # The title of the page in menu will be postfixed by this HTML content
 post : ""
 # Set the page as a chapter, changing the way it's displayed
-chapter : false
+chapter : true
 # Hide a menu entry by setting this to true
 hidden : false
 # Display name of this page modifier. If set, it will be displayed in the footer.
