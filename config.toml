@@ -3,10 +3,6 @@ languageCode = "en-us"
 title = "RichardWHZ`s Personal Site"
 theme = "hugo-learn"
 
-# Search Function
-[outputs]
-home = [ "HTML", "RSS", "JSON"]
-
 [params]
   # Prefix URL to edit current page. Will display an "Edit this page" button on top right hand corner of every page.
   # Useful to give opportunity to people to create merge request for your doc.
@@ -39,3 +35,8 @@ home = [ "HTML", "RSS", "JSON"]
   themeVariant = "red"
   # Provide a list of custom css files to load relative from the `static/` folder in the site root.
   custom_css = []
+  
+# Search function
+[outputs]
+  home = [ "HTML", "RSS", "JSON"]
+
