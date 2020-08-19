@@ -25,4 +25,4 @@ LastModifierEmail : ""
 
 ## RichardWHZ`s Personal Site
 
-![Illustration](/images/illustration.jpg)
+![illustration](/images/illustration.jpg)
