@@ -23,4 +23,4 @@ LastModifierDisplayName : ""
 LastModifierEmail : ""
 ---
 
-![Illustration](/images/books/illustration.jpg)
+![illustration](/images/books/illustration.jpg)
