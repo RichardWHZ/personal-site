@@ -9,7 +9,7 @@ weight : 0
 disableToc : ""
 # If set, this will be used for the page's menu entry (instead of the `title` attribute)
 menuTitle : ""
-# The title of the page in menu will be prefixed by this HTML content
+# The title of the page in menu will be prefixed by this HTML content (Add <b>X. </b> for numbering)
 pre : ""
 # The title of the page in menu will be postfixed by this HTML content
 post : ""
