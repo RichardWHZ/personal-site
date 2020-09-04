@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About Me on Richard Wang`s Personal Site</title>
+    <title>About Me on RichardWHZ`s Personal Site</title>
     <link>http://richardwhz.netlify.app/about-me/</link>
-    <description>Recent content in About Me on Richard Wang`s Personal Site</description>
+    <description>Recent content in About Me on RichardWHZ`s Personal Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Aug 2020 16:56:56 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2020 17:16:00 +0800</lastBuildDate>
     
 	<atom:link href="http://richardwhz.netlify.app/about-me/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,8 +17,8 @@
       <pubDate>Sun, 09 Aug 2020 17:11:29 +0800</pubDate>
       
       <guid>http://richardwhz.netlify.app/about-me/employment-history/</guid>
-      <description>System Analyst/Programmer - Finsurge Pte. Ltd 10/2019 - 03/2020
- Worked with clients from a major financial institution Consulted with client on the scope and deployment of project Maintained and optimized various Grafana dashboards Maintained and queried data from client`s MySQL database Deployed logstash logging script to log the system load of client`s Murex server Deployed proprietary python scripts to parse and load logs into MySQL database  Temporary Contractor - Institute of Infocomm Research, A*STAR 05/2019 - 08/2019</description>
+      <description>System Analyst/Programmer - Finsurge Pte. Ltd Oct 2019 - Mar 2020
+ Worked with clients from a major financial institution Consulted with client on the scope and deployment of project Maintained and optimized various Grafana dashboards Maintained and queried data from client`s MySQL database Deployed logstash logging script to log the system load of client`s Murex server Deployed proprietary python scripts to parse and load logs into MySQL database  Temporary Contractor - Institute of Infocomm Research, A*STAR May 2019 - Aug 2019</description>
     </item>
     
     <item>
@@ -27,7 +27,7 @@
       <pubDate>Sun, 09 Aug 2020 17:22:04 +0800</pubDate>
       
       <guid>http://richardwhz.netlify.app/about-me/professional-skills/</guid>
-      <description>Technical Skills:  Linux Administration Windows Administration Windows Server 2012 Administration Data Analytics Using Python Big Data Architecture Design Machine Learning Using Python Python for Financial Analysis  Soft Skills  Public Speaking Workplace Communication Brainstorming Critical Thinking  </description>
+      <description>Technical Skills  Linux Administration Windows Administration Windows Server 2012 Administration Data Analytics Using Python Big Data Architecture Design Machine Learning Using Python Python for Financial Analysis  Soft Skills  Public Speaking Workplace Communication Brainstorming Critical Thinking  </description>
     </item>
     
     <item>

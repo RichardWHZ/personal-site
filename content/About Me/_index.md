@@ -2,9 +2,10 @@
 title : "About Me"
 date : 2020-08-19T17:16:00+08:00
 chapter : true
-pre : <b>X. </b>
 draft :  false
 weight : 0
+tags: ["Personal Details", "Contact Details"] 
+
 
 # Table of content (toc) is enabled by default. Set this parameter to true to disable it.
 # Note: Toc is always disabled for chapter pages

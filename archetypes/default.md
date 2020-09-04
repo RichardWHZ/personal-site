@@ -3,6 +3,8 @@ title :  "{{ replace .Name "-" " " | title }}"
 date : {{ .Date }}
 draft :  false
 weight : 0
+tags: [] 
+
 
 # Table of content (toc) is enabled by default. Set this parameter to true to disable it.
 # Note: Toc is always disabled for chapter pages

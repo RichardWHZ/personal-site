@@ -3,6 +3,8 @@ title :  "Education History"
 date : 2020-08-09T17:15:28+08:00
 draft :  false
 weight : 4
+tags: ["Education"] 
+
 
 # Table of content (toc) is enabled by default. Set this parameter to true to disable it.
 # Note: Toc is always disabled for chapter pages

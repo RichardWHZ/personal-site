@@ -3,6 +3,7 @@ title :  "Employment History"
 date : 2020-08-09T17:11:29+08:00
 draft :  false
 weight : 2
+tags: ["Work", "Career", "Working Experience"] 
 
 # Table of content (toc) is enabled by default. Set this parameter to true to disable it.
 # Note: Toc is always disabled for chapter pages
@@ -23,8 +24,11 @@ LastModifierDisplayName : ""
 LastModifierEmail : ""
 ---
 
-
 ![illustration](/images/about-me/enployment-history/illustration.jpg)
+
+### Associate Software Engineer (Big Data Platform Management and Data Engineering) - Great Eastern Singapore
+
+Aug 2020 - Current
 
 
 ### System Analyst/Programmer - Finsurge Pte. Ltd

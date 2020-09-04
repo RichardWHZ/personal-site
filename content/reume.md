@@ -1,5 +1,5 @@
 ---
-title :  "Reume"
+title :  "Resume"
 date : 2020-08-19T09:51:53+08:00
 draft :  false
 weight : 0
