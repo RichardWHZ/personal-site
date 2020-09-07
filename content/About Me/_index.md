@@ -1,7 +1,7 @@
 ---
 title : "About Me"
 date : 2020-08-19T17:16:00+08:00
-chapter : false
+chapter : true
 draft :  false
 weight : 0
 tags: ["Personal Details", "Contact Details"] 
