@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal Details on RichardWHZ`s Personal Site</title>
+    <link>http://richardwhz.netlify.app/tags/personal-details/</link>
+    <description>Recent content in Personal Details on RichardWHZ`s Personal Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Aug 2020 17:16:00 +0800</lastBuildDate>
+    
+	<atom:link href="http://richardwhz.netlify.app/tags/personal-details/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>http://richardwhz.netlify.app/about-me/</link>
+      <pubDate>Wed, 19 Aug 2020 17:16:00 +0800</pubDate>
+      
+      <guid>http://richardwhz.netlify.app/about-me/</guid>
+      <description>Summary An aspiring individual that is quick-witted, analytical, meticulous and thinks outside the box. Extremely adept in Linux system administration and big data analytics using tools such as Python and Qlikview. A critical thinker that likes to add a pinch of humor to spice things up when working in teams. At the same time, understands the pertinence of workplace communication and able to communicate thoughts and ideas clearly to teammates and superiors</description>
+    </item>
+    
+  </channel>
+</rss>

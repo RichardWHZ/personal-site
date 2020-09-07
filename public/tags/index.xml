@@ -6,9 +6,64 @@
     <description>Recent content in Tags on RichardWHZ`s Personal Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 19 Aug 2020 17:16:00 +0800</lastBuildDate>
     
 	<atom:link href="http://richardwhz.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Contact Details</title>
+      <link>http://richardwhz.netlify.app/tags/contact-details/</link>
+      <pubDate>Wed, 19 Aug 2020 17:16:00 +0800</pubDate>
+      
+      <guid>http://richardwhz.netlify.app/tags/contact-details/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal Details</title>
+      <link>http://richardwhz.netlify.app/tags/personal-details/</link>
+      <pubDate>Wed, 19 Aug 2020 17:16:00 +0800</pubDate>
+      
+      <guid>http://richardwhz.netlify.app/tags/personal-details/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>http://richardwhz.netlify.app/tags/education/</link>
+      <pubDate>Sun, 09 Aug 2020 17:15:28 +0800</pubDate>
+      
+      <guid>http://richardwhz.netlify.app/tags/education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Career</title>
+      <link>http://richardwhz.netlify.app/tags/career/</link>
+      <pubDate>Sun, 09 Aug 2020 17:11:29 +0800</pubDate>
+      
+      <guid>http://richardwhz.netlify.app/tags/career/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Work</title>
+      <link>http://richardwhz.netlify.app/tags/work/</link>
+      <pubDate>Sun, 09 Aug 2020 17:11:29 +0800</pubDate>
+      
+      <guid>http://richardwhz.netlify.app/tags/work/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Working Experience</title>
+      <link>http://richardwhz.netlify.app/tags/working-experience/</link>
+      <pubDate>Sun, 09 Aug 2020 17:11:29 +0800</pubDate>
+      
+      <guid>http://richardwhz.netlify.app/tags/working-experience/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

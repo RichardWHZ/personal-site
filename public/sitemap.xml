@@ -28,8 +28,43 @@
   </url>
   
   <url>
+    <loc>http://richardwhz.netlify.app/tags/contact-details/</loc>
+    <lastmod>2020-08-19T17:16:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://richardwhz.netlify.app/tags/personal-details/</loc>
+    <lastmod>2020-08-19T17:16:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://richardwhz.netlify.app/tags/</loc>
+    <lastmod>2020-08-19T17:16:00+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://richardwhz.netlify.app/reume/</loc>
     <lastmod>2020-08-19T09:51:53+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://richardwhz.netlify.app/tags/education/</loc>
+    <lastmod>2020-08-09T17:15:28+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://richardwhz.netlify.app/tags/career/</loc>
+    <lastmod>2020-08-09T17:11:29+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://richardwhz.netlify.app/tags/work/</loc>
+    <lastmod>2020-08-09T17:11:29+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://richardwhz.netlify.app/tags/working-experience/</loc>
+    <lastmod>2020-08-09T17:11:29+08:00</lastmod>
   </url>
   
   <url>
@@ -44,10 +79,6 @@
   
   <url>
     <loc>http://richardwhz.netlify.app/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://richardwhz.netlify.app/tags/</loc>
   </url>
   
 </urlset>
