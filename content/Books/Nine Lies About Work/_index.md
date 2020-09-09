@@ -1,5 +1,5 @@
 ---
-title :  "Books"
+title :  "Nine Lies About Work"
 date : 2020-08-09T16:48:52+08:00
 draft :  true
 weight : 0
@@ -23,4 +23,4 @@ LastModifierDisplayName : ""
 LastModifierEmail : ""
 ---
 
-![illustration](/images/books/illustration.jpg)
+![illustration](/images/books/nine-lies-about-work.jpg)

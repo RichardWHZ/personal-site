@@ -30,16 +30,12 @@ theme = "hugo-learn"
   # Hide Next and Previous page buttons normally displayed full height beside content
   disableNextPrev = false
   # Order sections in menu by "weight" or "title". Default to "weight"
-  ordersectionsby = "weight"
+  ordersectionsby = "title"
   # Change default color scheme with a variant one. Can be "red", "blue", "green".
   themeVariant = "red"
   # Provide a list of custom css files to load relative from the `static/` folder in the site root.
   custom_css = []
   
-# Search function
-[outputs]
-  home = [ "HTML", "RSS", "JSON"]
-
 [[menu.shortcuts]]
 name = "<i class='fas fa-tags'></i> Tags"
 url = "/tags"
@@ -50,3 +46,7 @@ name = "<i class='fab fa-github'></i> Github"
 identifier = "ds"
 url = "https://github.com/RichardWHZ/"
 weight = 10
+
+# Search function
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
