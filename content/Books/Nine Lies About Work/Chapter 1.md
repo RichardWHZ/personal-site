@@ -1,0 +1,28 @@
+---
+title :  "Chapter 1"
+date : 2020-09-10T16:01:08+08:00
+draft :  false
+weight : 0
+tags: [] 
+
+
+# Table of content (toc) is enabled by default. Set this parameter to true to disable it.
+# Note: Toc is always disabled for chapter pages
+disableToc : ""
+# If set, this will be used for the page's menu entry (instead of the `title` attribute)
+menuTitle : ""
+# The title of the page in menu will be prefixed by this HTML content (Add <b>X. </b> for numbering)
+pre : ""
+# The title of the page in menu will be postfixed by this HTML content
+post : ""
+# Set the page as a chapter, changing the way it's displayed
+chapter : false
+# Hide a menu entry by setting this to true 
+hidden : true
+# Display name of this page modifier. If set, it will be displayed in the footer.
+LastModifierDisplayName : ""
+# Email of this page modifier. If set with LastModifierDisplayName, it will be displayed in the footer
+LastModifierEmail : ""
+---
+
+![Under Construction](/images/under-construction.png)
